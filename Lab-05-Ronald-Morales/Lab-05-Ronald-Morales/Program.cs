@@ -139,7 +139,7 @@ namespace Lab_05_Ronald_Morales
                 Console.WriteLine("No es múltiplo de 5.");
             }
 
-            if (cuatroDigitos && esPar && !multiplo5)
+            if (cuatroDigitos && esPar && multiplo5)
             {
                 Console.WriteLine("PIN aceptado por política.");
             }
