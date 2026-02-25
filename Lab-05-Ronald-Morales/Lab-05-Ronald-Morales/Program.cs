@@ -422,6 +422,11 @@ namespace Lab_05_Ronald_Morales
             Console.WriteLine("───────────────███▓▓▓███");
             Console.WriteLine("─────────────────██▓██");
             Console.WriteLine("──────────────────███");
+
+
+            Console.WriteLine();
+            Console.WriteLine("Presione cualquier tecla para continuar...");
+            Console.ReadKey();
         }
     }
 }
