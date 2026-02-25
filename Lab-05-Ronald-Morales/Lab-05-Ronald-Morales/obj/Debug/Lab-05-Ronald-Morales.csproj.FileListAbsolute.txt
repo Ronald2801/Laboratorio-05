@@ -1,0 +1,7 @@
+C:\Users\RONALD\source\repos\Lab-05-Ronald-Morales\Lab-05-Ronald-Morales\bin\Debug\Lab-05-Ronald-Morales.exe.config
+C:\Users\RONALD\source\repos\Lab-05-Ronald-Morales\Lab-05-Ronald-Morales\bin\Debug\Lab-05-Ronald-Morales.exe
+C:\Users\RONALD\source\repos\Lab-05-Ronald-Morales\Lab-05-Ronald-Morales\bin\Debug\Lab-05-Ronald-Morales.pdb
+C:\Users\RONALD\source\repos\Lab-05-Ronald-Morales\Lab-05-Ronald-Morales\obj\Debug\Lab-05-Ronald-Morales.csproj.AssemblyReference.cache
+C:\Users\RONALD\source\repos\Lab-05-Ronald-Morales\Lab-05-Ronald-Morales\obj\Debug\Lab-05-Ronald-Morales.csproj.CoreCompileInputs.cache
+C:\Users\RONALD\source\repos\Lab-05-Ronald-Morales\Lab-05-Ronald-Morales\obj\Debug\Lab-05-Ronald-Morales.exe
+C:\Users\RONALD\source\repos\Lab-05-Ronald-Morales\Lab-05-Ronald-Morales\obj\Debug\Lab-05-Ronald-Morales.pdb
